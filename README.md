@@ -22,7 +22,7 @@ Dataset used: processed.cleveland.data.csv
 
 An extension of supervised learning with focus on handling large volume of imbalanced data with complex boundaries
 
-Fraud detection- compared Random Forest, LightGBM, XGBoost for classification
+Fraud detection- compared Random Forest, LightGBM, XGBoost for classification. Used Optuna for hyperparameter tuning
 
 Dataset used: creditcard.csv
 

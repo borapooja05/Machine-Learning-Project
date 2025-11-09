@@ -5,6 +5,7 @@ Both .py and .ipynb files have been uploaded.
 Brief of content:
 
 Supervised Learning:
+
 •	In depth Exploratory data analysis, Handling Outliers, comparing Classification methods- SVC, Logistic Regression and RandomForest Classifier
 
 Dataset used: Titanic 
@@ -30,5 +31,6 @@ Unsupervised Learning:
 •	Clustering of images of Digits by using t-SNE method, Pillow 
 
 Dataset used: mnist_784
+
 •	Shopping trend using k-prototype and gower’s distance for clustering, t-SNE
 Dataset used: shopping_behavior_updated.csv

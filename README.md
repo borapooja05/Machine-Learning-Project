@@ -10,7 +10,7 @@ Brief of content:
 
 Dataset used: Titanic 
 
-•	House price prediction in Visakhapatnam using Random Forest Regressor and hyperparameter tuning using GridSearchCV.
+•	House price prediction in Visakhapatnam using Random Forest Regressor and hyperparameter tuning using GridSearchCV. PCA for dimensionality reduction.
 
 Dataset used: india_housing_prices.csv
 
@@ -22,7 +22,7 @@ Dataset used: processed.cleveland.data.csv
 
 An extension of supervised learning with focus on handling large volume of imbalanced data with complex boundaries
 
-Fraud detection- compared Random Forest, LightGBM, XGBoost for classification. Used Optuna for hyperparameter tuning
+Fraud detection- compared Random Forest, LightGBM, XGBoost for classification. Used Optuna for hyperparameter tuning and Feature selection methods
 
 Dataset used: creditcard.csv
 

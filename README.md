@@ -4,7 +4,7 @@ Both .py and .ipynb files have been uploaded.
 
 Brief of content:
 
-Supervised Learning:
+**Supervised Learning:**
 
 •	In depth Exploratory data analysis, Handling Outliers, comparing Classification methods- SVC, Logistic Regression and RandomForest Classifier
 
@@ -18,7 +18,7 @@ Dataset used: india_housing_prices.csv
 
 Dataset used: processed.cleveland.data.csv
 
-Handling Imbalanced Data:
+**Handling Imbalanced Data:**
 
 An extension of supervised learning with focus on handling large volume of imbalanced data with complex boundaries
 
@@ -26,7 +26,7 @@ Fraud detection- compared Random Forest, LightGBM, XGBoost for classification
 
 Dataset used: creditcard.csv
 
-Unsupervised Learning:
+**Unsupervised Learning:**
 
 •	Clustering of images of Digits by using t-SNE method, Pillow 
 
